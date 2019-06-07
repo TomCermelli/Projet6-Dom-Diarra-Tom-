@@ -23,6 +23,11 @@ body{
 
 }
 
+.bg
+{
+background-color: rgba(0, 0, 0, 0.5)
+}
+
 .news{
     background-attachment: fixed;
 }
