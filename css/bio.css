@@ -129,3 +129,8 @@ header{
     opacity: 0.7;
     padding-bottom: 30px;
 }
+
+.reseau_sociaux  /*la div regroupant ce qui a en bas du hr footer*/
+{
+padding: 0 0 20px 0;
+}
